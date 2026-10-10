@@ -47,5 +47,5 @@ Some simple examples of how to use these utilities are provided below for refere
 </p>
 <p>
 <img width="300" alt="3x34401A-Front" src="https://github.com/user-attachments/assets/6cde26bc-1253-4011-99cd-41f7c7ce1ead" />
-<img width="360" alt="3x34401A Datalogger Window" src="https://github.com/user-attachments/assets/9c8b4225-8753-4c1b-9f60-8acc3036130d" />
+<img width="400" alt="3x34401A Datalogger Window" src="https://github.com/user-attachments/assets/9c8b4225-8753-4c1b-9f60-8acc3036130d" />
 </p>
