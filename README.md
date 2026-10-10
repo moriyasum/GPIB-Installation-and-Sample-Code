@@ -37,15 +37,15 @@ Several standard graphical utility applications are installed together with NI-4
 
 Some simple examples of how to use these utilities are provided below for reference.
 
-
+<p>
 <img width="300" alt="AGI-82357B-IMG_8681" src="https://github.com/user-attachments/assets/a0e6b206-1fc1-48e3-9860-303c1617fc21" />
 <img width="400" alt="NI-GPIB-IMG_8676a" src="https://github.com/user-attachments/assets/3447d99c-4461-4140-907f-d7c5debddb11" />
-
-
+</p>
+<p>
 <img width="300" alt="34401A-Front" src="https://github.com/user-attachments/assets/a35acad0-cf0d-4928-8b10-43fa6c6bf7f5" />
 <img width="300" alt="1x34401A NI AGI UB" src="https://github.com/user-attachments/assets/c4b1615d-5aed-4483-9a8c-f19c5072ad3f" />
-
-
+</p>
+<p>
 <img width="300" alt="3x34401A Datalogger Window" src="https://github.com/user-attachments/assets/9c8b4225-8753-4c1b-9f60-8acc3036130d" />
 <img width="400" alt="3x34401A-Front" src="https://github.com/user-attachments/assets/6cde26bc-1253-4011-99cd-41f7c7ce1ead" />
-
+</p>
