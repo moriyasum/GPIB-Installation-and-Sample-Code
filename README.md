@@ -10,3 +10,4 @@ This section provides step-by-step guides for installing and using two widely us
 
 [NI GPIB-USB-HS on Windows 11](https://n7sd.com/ada1-2/ni-gpib-usb-hs-on-windows-11/)
 
+<img width="800" height="679" alt="AGI-82357B-IMG_8681" src="https://github.com/user-attachments/assets/a0e6b206-1fc1-48e3-9860-303c1617fc21" />
